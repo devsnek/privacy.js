@@ -1,0 +1,21 @@
+{
+  "name": "privacy.js",
+  "version": "1.0.0",
+  "description": "Work with the Privacy.com API",
+  "main": "src/index.js",
+  "dependencies": {
+    "snekfetch": "^3.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsnek/privacy.js.git"
+  },
+  "author": "snek <me@gus.host>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devsnek/privacy.js/issues"
+  },
+  "homepage": "https://github.com/devsnek/privacy.js#readme"
+}
